@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  Test
+
+  Created by Pradeep Selvaraj on 23/09/23.
+  
+*/
+
+"NetworkOfflineMessage" = "The Internet connection appears to be offline";
+"InvalidUserName" = "Please provide valid username";
+"InvalidEmail" = "Please provide valid email";
+"InvalidPhone" = "Please enter valid phone number";
+"InvalidGender" = "Gender details should not be empty";
+"SuccessCreateMessage" = "Successfully create the new user";
+"FailureMessage" = "Something went wrong. Please try again later";
+"SuccessUpdateMessage" = "Successfully updated the user details";
+"UserLocation" = "User Location";
+
+"OkButton" = "Ok";
+"EditButton" = "Edit";
+"CancelButton" = "Cancel";
+"UpdateButton" = "Update";
+"SubmitButton" = "Submit";
+"UserDetails" = "User Details";
+"CreateUser" = "Create User";
+
